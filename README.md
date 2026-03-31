@@ -2,7 +2,7 @@
 
 A full-stack Kanban-style task management web application built with the PERN stack. Supports drag-and-drop task tracking, user authentication, and persistent storage.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -12,7 +12,7 @@ A full-stack Kanban-style task management web application built with the PERN st
 | Auth | JWT (JSON Web Tokens) |
 | Deployment | Render |
 
-## ✨ Features
+## Features
 
 - Drag-and-drop task management across columns (To Do, In Progress, Done)
 - User registration and login with JWT authentication
@@ -20,7 +20,7 @@ A full-stack Kanban-style task management web application built with the PERN st
 - REST API with full CRUD operations
 - Protected routes — each user sees only their own tasks
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repository
@@ -47,7 +47,7 @@ npm start
 npm start
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 kanban-board-pern/
@@ -62,14 +62,14 @@ kanban-board-pern/
 └── README.md
 ```
 
-## 📌 What I Learned
+## What I Learned
 
 - How data flows between a React frontend and an Express backend
 - Implementing JWT authentication — token creation, storage, and verification
 - Designing a relational PostgreSQL schema with foreign key constraints
 - Deploying a full-stack Node.js app on Render
 
-## 🔗 Live Demo
+## Live Demo
 
 [View deployed app](https://your-render-link.onrender.com) *(link will be added after deployment)*
 Copy
